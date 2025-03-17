@@ -2,9 +2,10 @@
 
 1. Uygulama Kodlama xxxx
 2. Uygulama Tasarımı yyyy
-3.Uygulama Geliştirme Planı 
+3.Uygulama Geliştirme Planı zzzz
 4. Uygulama Testi
 5. Uygulama Dağıtımı
+
 
 
 
