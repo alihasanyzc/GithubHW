@@ -1,7 +1,7 @@
 // 4 adımda mobil uygulama geliştirme
 
 1. Uygulama Kodlama
-2. Uygulama Tasarımı
+2. Uygulama Tasarımı yyyy
 3.Uygulama Geliştirme Planı 
 4. Uygulama Testi
 5. Uygulama Dağıtımı
